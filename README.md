@@ -79,10 +79,6 @@ class Experience:
 
 
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  <img src="https://komarev.com/ghpvc/?username=helenhawez&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
   
   ### "Transforming ideas into reality, one line of code at a time ✨"
 </div>
