@@ -86,4 +86,7 @@ class Experience:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=100&section=footer" />
+
+
 
