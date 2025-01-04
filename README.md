@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Hela ✨
+# ❤️ Hela ❤️
 ### 👩‍💻 Full Stack Developer | ICT Engineering 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Building+dreams+with+code;Full+Stack+Developer;ICT+Engineering+Student;Tech+Enthusiast)](https://git.io/typing-svg)
