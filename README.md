@@ -84,7 +84,7 @@ class Experience:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
-</div>
+
 
 
   <div style="margin: 30px 0;">
