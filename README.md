@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-5+-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-Massif|Pirmam%20Iraq-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-Massif|Pirmam%20-ff69b4?style=for-the-badge" />
 </p>
 
 ## 💖 About Me
