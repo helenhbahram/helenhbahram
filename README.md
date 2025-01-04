@@ -87,10 +87,3 @@ class Experience:
 
 
 
-  <div style="margin: 30px 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </div>
-  </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" alt="Footer Wave" />
-</div>
