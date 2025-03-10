@@ -36,7 +36,7 @@ const helen = {
 ```
 
 ## 🎯 Current Journey
-- 🎓 ICT Engineering student at **Erbil-Polytechnic University**
+- 🎓 ICT Engineering at **Erbil-Polytechnic University**
 - 💼 Full Stack Developer at **Easy Soft Co.**
 - 🌱 Always learning and growing in the tech world
 - 🚀 Working on exciting projects that make a difference
