@@ -3,7 +3,7 @@
 # ❤️ Hela ❤️
 ### Full Stack Developer | ICT Engineering 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Building+dreams+with+code;Full+Stack+Developer;ICT+Engineering+Student;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Building+dreams+with+code;Full+Stack+Developer;ICT+Engineering;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -36,7 +36,7 @@ const helen = {
 ```
 
 ## 🎯 Current Journey
-- 🎓 Fourth-year ICT Engineering student at **Erbil-Polytechnic University**
+- 🎓 ICT Engineering student at **Erbil-Polytechnic University**
 - 💼 Full Stack Developer at **Easy Soft Co.**
 - 🌱 Always learning and growing in the tech world
 - 🚀 Working on exciting projects that make a difference
