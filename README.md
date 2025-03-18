@@ -329,13 +329,11 @@ class Education {
     <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   
-  <a href="https://linkedin.com/in/helenhb">
+  <a href="https://linkedin.com/in/Hêlêň Mäšifi⚡">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="https://twitter.com/helenhb">
-    <img src="https://img.shields.io/badge/Twitter-Follow-ff69b4?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
+  
 </p>
 
 <div align="center">
