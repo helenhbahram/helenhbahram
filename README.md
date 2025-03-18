@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Experience-5%2B_Years-ff69b4?style=for-the-badge" />
 </p>
 
-![Woman Coding](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)
+
 
 <p align="center"><i>~ Creating digital magic every day ~</i></p>
 </div>
