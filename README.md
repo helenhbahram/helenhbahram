@@ -1,9 +1,9 @@
 <div align="center">
   
-# ✨ Hela ✨
+# ✨👩‍💻 Hela 👩‍💻✨
 ### Full Stack Developer & ICT Engineer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -12,9 +12,16 @@
   <img src="https://img.shields.io/badge/Location-Massif|Pirmam-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-5%2B_Years-ff69b4?style=for-the-badge" />
 </p>
+
+![Girl Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 </div>
 
 ## 💫 About Me
+
+<table border="0">
+<tr>
+<td width="60%">
 
 ```javascript
 // Get to know me better! ✨
@@ -35,44 +42,56 @@ const hela = {
 };
 ```
 
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100%" alt="Girl with laptop">
+<p align="center"><i>~ Creating digital magic every day ~</i></p>
+</td>
+</tr>
+</table>
+
 ## 💕 What I Do
 
 <table border="0" align="center">
 <tr>
 <td width="50%">
 <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1foxfyl6ey4nlsiser&rid=giphy.gif" width="100%" alt="Frontend Development">
-<h3 align="center">Frontend Magic ✨</h3>
+<h3 align="center">✨ Frontend Magic ✨</h3>
 <p align="center">
-Creating beautiful, responsive interfaces using my expertise in <b>Bootstrap (90%)</b>, React, and Next.js. I love turning designs into pixel-perfect experiences!
+Creating beautiful, responsive interfaces using my expertise in <b>Bootstrap (90%)</b>, React, and Next.js. I transform designs into pixel-perfect experiences with a touch of elegance!
 </p>
 </td>
 <td width="50%">
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Backend Development">
-<h3 align="center">Backend Power 💪</h3>
+<h3 align="center">💪 Backend Power 💪</h3>
 <p align="center">
-Building robust server-side applications with <b>Node.js (100%)</b> and Express.js. API development, authentication flows, and database optimization are my specialties!
+Building robust server-side applications with <b>Node.js (100%)</b> and Express.js. API development, authentication flows, and database optimization are my specialties—making everything work seamlessly behind the scenes!
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Full Stack Development">
-<h3 align="center">Full Stack Solutions 🚀</h3>
+<h3 align="center">🚀 Full Stack Solutions 🚀</h3>
 <p align="center">
-Combining <b>Next.js (100%)</b> with Node.js to create end-to-end applications that are fast, secure, and user-friendly. I love bringing ideas to life!
+Combining <b>Next.js (100%)</b> with Node.js to create end-to-end applications that are fast, secure, and user-friendly. I love bringing ideas to life with a feminine touch of creativity!
 </p>
 </td>
 <td width="50%">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Network Engineering">
-<h3 align="center">Network Engineering 🌐</h3>
+<h3 align="center">🌐 Network Engineering 🌐</h3>
 <p align="center">
-Optimizing MikroTik routers and creating secure network configurations. I ensure everything stays connected reliably and efficiently!
+Optimizing MikroTik routers and creating secure network configurations. I ensure everything stays connected reliably and efficiently—like a digital fairy godmother!
 </p>
 </td>
 </tr>
 </table>
 
 ## 🌟 Professional Experience
+
+<div align="center">
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Girl working">
+</div>
 
 ### 💼 Full Stack Developer | EasySoft.Dev | October 2023 - Present
 ```javascript
@@ -94,7 +113,8 @@ const easySoftDev = {
     database: "MySQL",
     tools: ["GitHub", "VSCode", "Postman"]
   },
-  achievements: "Reduced page load time by 40% through code optimization and lazy loading"
+  achievements: "Reduced page load time by 40% through code optimization and lazy loading",
+  clientFeedback: "Hela adds a special touch to every project that makes it stand out! ✨"
 };
 ```
 
@@ -108,7 +128,8 @@ const tarinNet = {
     "Setting up secure remote access configurations 🔒",
     "Creating automated scripts for network monitoring 📝"
   ],
-  achievements: "Improved network reliability by 35% through optimized configurations"
+  achievements: "Improved network reliability by 35% through optimized configurations",
+  feedback: "Her attention to detail ensures our networks run flawlessly! 💖"
 };
 ```
 
@@ -138,6 +159,10 @@ const freelance = {
 ```
 
 ## 💻 Tech Stack & Skills
+
+<div align="center">
+<img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200px" alt="Girl coding">
+</div>
 
 <div align="center">
 
@@ -185,6 +210,10 @@ const freelance = {
 
 ## 🎓 Education & Certifications
 
+<table border="0">
+<tr>
+<td width="60%">
+
 ```javascript
 // My learning journey ✨
 class Education {
@@ -220,42 +249,60 @@ class Education {
     ];
     
     this.currentlyLearning = ["TypeScript", "AWS", "Docker"];
+    
+    this.motto = "Learning never stops. Every day is a new opportunity to grow! 💕";
   }
 }
 ```
 
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100%" alt="Girl studying">
+<p align="center"><i>~ Always curious, always learning ~</i></p>
+</td>
+</tr>
+</table>
+
 ## 🗣️ Languages
+
+<div align="center">
+<img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
       <td>
-        <div style="background-color: #ff69b4; height: 20px; width: 100%;"></div>
+        <div style="background: linear-gradient(to right, #ff69b4 100%, transparent 0%); height: 20px; border-radius: 10px;"></div>
       </td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
       <td>
-        <div style="background-color: #ff69b4; height: 20px; width: 95%;"></div>
+        <div style="background: linear-gradient(to right, #ff69b4 95%, transparent 5%); height: 20px; border-radius: 10px;"></div>
       </td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
       <td>
-        <div style="background-color: #ff69b4; height: 20px; width: 85%;"></div>
+        <div style="background: linear-gradient(to right, #ff69b4 85%, transparent 15%); height: 20px; border-radius: 10px;"></div>
       </td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
       <td>
-        <div style="background-color: #ff69b4; height: 20px; width: 80%;"></div>
+        <div style="background: linear-gradient(to right, #ff69b4 80%, transparent 20%); height: 20px; border-radius: 10px;"></div>
       </td>
     </tr>
   </table>
 </div>
 
 ## 🌈 My Personal Touch
+
+<div align="center">
+<img src="https://media.giphy.com/media/h5NLPVn3rg0Rq/giphy.gif" width="200px" alt="Creative coding">
+</div>
 
 <div align="center">
   <table border="0">
@@ -268,6 +315,7 @@ class Education {
           <li>💗 Clean code is not just a preference, it's respect for those who read it</li>
           <li>💗 Every problem has a solution - sometimes you just need to look at it differently</li>
           <li>💗 Documentation is like a love letter to your future self</li>
+          <li>💗 Add a sprinkle of creativity to make your code shine!</li>
         </ul>
       </td>
       <td width="50%">
@@ -276,8 +324,9 @@ class Education {
           <li>💗 Exploring new design trends and UI inspirations</li>
           <li>💗 Reading tech blogs and participating in webinars</li>
           <li>💗 Contributing to open-source projects</li>
-          <li>💗 Mentoring aspiring developers</li>
+          <li>💗 Mentoring aspiring developers, especially women in tech</li>
           <li>💗 Finding the perfect pink hex codes (#ff69b4 is my favorite!)</li>
+          <li>💗 Creating digital art that combines technology and beauty</li>
         </ul>
       </td>
     </tr>
@@ -285,6 +334,10 @@ class Education {
 </div>
 
 ## 📩 Let's Connect!
+
+<div align="center">
+<img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
+</div>
 
 <div align="center">
   <a href="mailto:helenhbahram@gmail.com">
