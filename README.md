@@ -202,4 +202,158 @@ const freelance = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helenhb&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhb&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=20232a&hide_bo
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhb&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=20232a&hide_border=false" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenhb&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&langs_count=8" width="40%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=helenhb&theme=radical&column=4&margin-w=15&margin-h=15" width="58%" />
+</div>
+
+## 🎓 Education & Certifications
+
+<table border="0">
+<tr>
+<td width="60%">
+
+```javascript
+// My learning journey ✨
+class Education {
+  constructor() {
+    this.degree = {
+      title: "Bachelor of Information and Communication Technology Engineering",
+      institution: "Erbil Polytechnic University",
+      graduation: "2025",
+      highlights: ["Dean's List", "Web Development Club Leader"]
+    };
+    
+    this.certifications = [
+      {
+        name: "Tarinnet Internship Certification",
+        focus: "Network configuration & optimization",
+        year: "2023"
+      },
+      {
+        name: "IREX Certification",
+        focus: "Web development & digital solutions",
+        year: "2022"
+      },
+      {
+        name: "Bootstrap 5 Master Class",
+        issuer: "Udemy",
+        year: "2023"
+      },
+      {
+        name: "Next.js & Node.js - Full Stack Development",
+        issuer: "Coursera",
+        year: "2023"
+      }
+    ];
+    
+    this.currentlyLearning = ["TypeScript", "AWS", "Docker"];
+    
+    this.motto = "Learning never stops. Every day is a new opportunity to grow! 💕";
+  }
+}
+```
+
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100%" alt="Woman studying">
+<p align="center"><i>~ Creating digital magic every day ~</i></p>
+</td>
+</tr>
+</table>
+
+## 🗣️ Languages
+
+<div align="center">
+<img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
+      <td>
+        <div style="background: linear-gradient(to right, #ff69b4 100%, transparent 0%); height: 20px; border-radius: 10px;"></div>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
+      <td>
+        <div style="background: linear-gradient(to right, #ff69b4 95%, transparent 5%); height: 20px; border-radius: 10px;"></div>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
+      <td>
+        <div style="background: linear-gradient(to right, #ff69b4 85%, transparent 15%); height: 20px; border-radius: 10px;"></div>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
+      <td>
+        <div style="background: linear-gradient(to right, #ff69b4 80%, transparent 20%); height: 20px; border-radius: 10px;"></div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌈 My Professional Philosophy
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3>💭 My Coding Philosophy</h3>
+        <ul>
+          <li>💗 Write code that's as beautiful as it is functional</li>
+          <li>💗 User experience comes first, always</li>
+          <li>💗 Clean code is not just a preference, it's respect for those who read it</li>
+          <li>💗 Every problem has a solution - sometimes you just need to look at it differently</li>
+          <li>💗 Documentation is like a love letter to your future self</li>
+          <li>💗 Add a sprinkle of creativity to make your code shine!</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>✨ When I'm Not Coding</h3>
+        <ul>
+          <li>💗 Exploring new design trends and UI inspirations</li>
+          <li>💗 Reading tech blogs and participating in webinars</li>
+          <li>💗 Contributing to open-source projects</li>
+          <li>💗 Mentoring aspiring developers, especially women in tech</li>
+          <li>💗 Finding the perfect pink hex codes (#ff69b4 is my favorite!)</li>
+          <li>💗 Creating digital art that combines technology and beauty</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📩 Let's Connect!
+
+<div align="center">
+<img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
+</div>
+
+<div align="center">
+  <a href="mailto:helenhbahram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/helenhb">
+    <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-Follow-ff69b4?style=for-the-badge&logo=twitter" />
+  </a>
+</div>
+
+<div align="center">
+  
+### "💖 Creating beautiful web experiences, one pink pixel at a time 💖"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
+</div>
