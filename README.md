@@ -21,6 +21,7 @@
 const hela = {
   location: "Massif, Pirmam",
   email: "helenhbahram@gmail.com",
+  currentWork: "EasySoft.Dev",
   education: "B.Sc. Information and Communication Technology Engineering",
   skills: {
     frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript"],
@@ -73,10 +74,10 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 
 ## 🌟 Professional Experience
 
-### 💼 Full Stack Developer | Easy Soft Co. | October 2023 - Present
+### 💼 Full Stack Developer | EasySoft.Dev | October 2023 - Present
 ```javascript
 // What keeps me busy every day ✨
-const easySoft = {
+const easySoftDev = {
   project: "E-commerce Platform",
   myRole: () => {
     return [
