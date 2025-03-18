@@ -270,34 +270,24 @@ class Education {
 <img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
-      <td>
-        <div style="background: linear-gradient(to right, #ff69b4 100%, transparent 0%); height: 20px; border-radius: 10px;"></div>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
-      <td>
-        <div style="background: linear-gradient(to right, #ff69b4 95%, transparent 5%); height: 20px; border-radius: 10px;"></div>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
-      <td>
-        <div style="background: linear-gradient(to right, #ff69b4 85%, transparent 15%); height: 20px; border-radius: 10px;"></div>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
-      <td>
-        <div style="background: linear-gradient(to right, #ff69b4 80%, transparent 20%); height: 20px; border-radius: 10px;"></div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
+    <td><img src="https://progress-bar.dev/100/?width=150&color=ff69b4" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
+    <td><img src="https://progress-bar.dev/95/?width=150&color=ff69b4" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
+    <td><img src="https://progress-bar.dev/85/?width=150&color=ff69b4" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
+    <td><img src="https://progress-bar.dev/80/?width=150&color=ff69b4" /></td>
+  </tr>
+</table>
 
 ## 🌈 My Professional Philosophy
 
@@ -336,24 +326,27 @@ class Education {
 <img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
 </div>
 
-<div align="center">
+<p align="center">
   <a href="mailto:helenhbahram@gmail.com">
-    <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  
   <a href="https://github.com/helenhb">
-    <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin" />
+  
+  <a href="https://linkedin.com/in/helenhb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-Follow-ff69b4?style=for-the-badge&logo=twitter" />
+  
+  <a href="https://twitter.com/helenhb">
+    <img src="https://img.shields.io/badge/Twitter-Follow-ff69b4?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
-</div>
+</p>
 
 <div align="center">
   
-### "💖 Transforming Ideas in to Reality 💖"
+### "💖 Transforming Ideas into Reality 💖"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </div>
