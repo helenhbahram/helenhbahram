@@ -273,16 +273,16 @@ class Education {
   </tr> -->
   <tr>
     <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
-    <td><img src="https://progress-bar.dev/95/?width=150&color=ff69b4" /></td>
-  </tr>
+<!--     <td><img src="https://progress-bar.dev/95/?width=150&color=ff69b4" /></td>
+  </tr> -->
   <tr>
     <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
-    <td><img src="https://progress-bar.dev/85/?width=150&color=ff69b4" /></td>
-  </tr>
+<!--     <td><img src="https://progress-bar.dev/85/?width=150&color=ff69b4" /></td>
+  </tr> -->
   <tr>
     <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
-    <td><img src="https://progress-bar.dev/80/?width=150&color=ff69b4" /></td>
-  </tr>
+<!--     <td><img src="https://progress-bar.dev/80/?width=150&color=ff69b4" /></td>
+  </tr> -->
 </table>
 
 ## 🌈 My Professional Philosophy
