@@ -1,6 +1,6 @@
 <div align="center">
   
-# ❤️ Helen Hawez ❤️
+# ❤️ Hela ❤️
 ### Full Stack Developer | ICT Engineer 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ICT+Engineer;5%2B+Years+Experience;Problem-Solver;Detail-Oriented;User+Experience+Focused)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -13,10 +13,9 @@
 
 ## 💖 About Me
 ```javascript
-const helen = {
+const hela = {
     location: "Massif-Pirmam",
     email: "helenhbahram@gmail.com",
-    phone: "+9647815547676",
     education: "Bachelor of Information and Communication Technology Engineering",
     experience: "5+ years of development experience",
     passion: "Problem-solving through code with meticulous attention to detail",
@@ -116,6 +115,13 @@ const freelance = {
   </table>
 </div>
 
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helenhb&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhb&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenhb&layout=compact&theme=radical" />
+</div>
+
 ## 🎓 Education & Certifications
 ```python
 class Education:
@@ -141,9 +147,6 @@ class Education:
 <div align="center">
   <a href="mailto:helenhbahram@gmail.com">
     <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="tel:+9647815547676">
-    <img src="https://img.shields.io/badge/Phone-+9647815547676-ff69b4?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://github.com/helenhb">
     <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" />
