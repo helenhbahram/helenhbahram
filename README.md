@@ -353,7 +353,7 @@ class Education {
 
 <div align="center">
   
-### "💖 Creating beautiful web experiences, one pink pixel at a time 💖"
+### "💖 Transforming Ideas in to Reality 💖"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </div>
