@@ -16,7 +16,7 @@
 <p align="center"><i>~ Creating digital magic every day ~</i></p>
 </div>
 
-## 💫 About Me
+## 🤍 About Me
 
 <table border="0">
 <tr>
@@ -49,7 +49,7 @@ const hela = {
 </tr>
 </table>
 
-## 💕 What I Do
+## 🤍 What I Do
 
 <table border="0" align="center">
 <tr>
@@ -86,13 +86,13 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 </tr>
 </table>
 
-## ✨ Professional Experience
+## 🤍 Professional Experience
 
 <div align="center">
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 💻 Full Stack Developer | EasySoft.Dev | October 2023 - Present
+### 🤍 Full Stack Developer | EasySoft.Dev | October 2023 - Present
 ```javascript
 // What keeps me busy every day ✨
 const easySoftDev = {
@@ -117,7 +117,7 @@ const easySoftDev = {
 };
 ```
 
-### 🌐 Internet Service | TarinNet Company | July 2023 - 2024
+### 🤍 Internet Service | TarinNet Company | July 2023 - 2024
 ```javascript
 // Network configuration expertise ✨
 const tarinNet = {
@@ -132,7 +132,7 @@ const tarinNet = {
 };
 ```
 
-### ⏳ Freelance Web Developer | Remote Projects | 2021 - 2025
+### 🤍 Freelance Web Developer | Remote Projects | 2021 - 2025
 ```javascript
 // Creating digital experiences for clients ✨
 const freelance = {
@@ -157,7 +157,7 @@ const freelance = {
 };
 ```
 
-## 💻 Tech Stack & Skills
+## 🤍 Tech Stack & Skills
 
 <div align="center">
 <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200px" alt="Woman coding">
@@ -196,7 +196,7 @@ const freelance = {
 </p>
 </div>
 
-## 📊 GitHub Stats
+## 🤍 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helenhb&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
@@ -207,7 +207,7 @@ const freelance = {
   <img src="https://github-profile-trophy.vercel.app/?username=helenhb&theme=radical&column=4&margin-w=15&margin-h=15" width="58%" />
 </div>
 
-## 🎓 Education & Certifications
+## 🤍 Education & Certifications
 
 <table border="0">
 <tr>
@@ -262,7 +262,7 @@ class Education {
 </tr>
 </table>
 
-## 📌 Languages
+## 🤍 Languages
 
 <table align="center">
   <tr>
@@ -283,7 +283,7 @@ class Education {
   </tr> -->
 </table>
 
-## 💝 My Professional Philosophy
+## 🤍 My Professional Philosophy
 
 <div align="center">
   <table border="0">
@@ -314,7 +314,7 @@ class Education {
   </table>
 </div>
 
-## 📩 Let's Connect!
+## 🤍 Let's Connect!
 
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
