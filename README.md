@@ -86,13 +86,13 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 </tr>
 </table>
 
-## 🌟 Professional Experience
+## ✨ Professional Experience
 
 <div align="center">
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 💼 Full Stack Developer | EasySoft.Dev | October 2023 - Present
+### 💻 Full Stack Developer | EasySoft.Dev | October 2023 - Present
 ```javascript
 // What keeps me busy every day ✨
 const easySoftDev = {
@@ -132,7 +132,7 @@ const tarinNet = {
 };
 ```
 
-### 👩‍💻 Freelance Web Developer | Remote Projects | 2021 - 2025
+### ⏳ Freelance Web Developer | Remote Projects | 2021 - 2025
 ```javascript
 // Creating digital experiences for clients ✨
 const freelance = {
@@ -262,7 +262,7 @@ class Education {
 </tr>
 </table>
 
-## 🗣️ Languages
+## 📌 Languages
 
 <table align="center">
   <tr>
@@ -283,7 +283,7 @@ class Education {
   </tr> -->
 </table>
 
-## 🌈 My Professional Philosophy
+## 💝 My Professional Philosophy
 
 <div align="center">
   <table border="0">
@@ -340,7 +340,7 @@ class Education {
 
 <div align="center">
   
-### "💖 Transforming Ideas into Reality 💖"
+### "🤍 Transforming Ideas into Reality 🤍"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </div>
