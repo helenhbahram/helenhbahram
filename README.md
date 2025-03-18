@@ -266,10 +266,6 @@ class Education {
 
 ## 🗣️ Languages
 
-<div align="center">
-<!-- <img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
-</div> -->
-
 <table align="center">
   <tr>
     <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
