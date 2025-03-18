@@ -267,8 +267,8 @@ class Education {
 ## 🗣️ Languages
 
 <div align="center">
-<img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
-</div>
+<!-- <img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
+</div> -->
 
 <table align="center">
   <tr>
@@ -323,8 +323,8 @@ class Education {
 ## 📩 Let's Connect!
 
 <div align="center">
-<img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
-</div>
+<!-- <img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
+</div> -->
 
 <p align="center">
   <a href="mailto:helenhbahram@gmail.com">
