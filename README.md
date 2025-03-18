@@ -168,7 +168,7 @@ const freelance = {
 ### 💗 Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js-100%25-ff69b4?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-90%25-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-100%25-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/React-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/HTML5-95%25-ff69b4?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" />
@@ -180,8 +180,8 @@ const freelance = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-100%25-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Express.js-85%25-ff69b4?style=for-the-badge&logo=express&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-80%25-ff69b4?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-85%25-ff69b4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-90%25-ff69b4?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-100%25-ff69b4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/GraphQL-70%25-ff69b4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Authentication-80%25-ff69b4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=black" />
 </p>
