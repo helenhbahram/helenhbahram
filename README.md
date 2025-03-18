@@ -269,8 +269,8 @@ class Education {
 <table align="center">
   <tr>
     <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
-    <td><img src="https://progress-bar.dev/100/?width=150&color=ff69b4" /></td>
-  </tr>
+<!--     <td><img src="https://progress-bar.dev/100/?width=150&color=ff69b4" /></td>
+  </tr> -->
   <tr>
     <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
     <td><img src="https://progress-bar.dev/95/?width=150&color=ff69b4" /></td>
