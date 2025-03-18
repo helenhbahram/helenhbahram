@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨👩‍💻 Hela 👩‍💻✨
+# ✨💖 Hela 💖✨
 ### Full Stack Developer & ICT Engineer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
@@ -15,6 +15,7 @@
 
 ![Girl Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300px" alt="Pink sparkles">
 </div>
 
 ## 💫 About Me
@@ -46,11 +47,16 @@ const hela = {
 <td width="40%">
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100%" alt="Girl with laptop">
 <p align="center"><i>~ Creating digital magic every day ~</i></p>
+<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="100%" alt="Pink sparkles animation">
 </td>
 </tr>
 </table>
 
 ## 💕 What I Do
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oEjI8vagbCaOBAX60/giphy.gif" width="300px" alt="Pink sparkle transition">
+</div>
 
 <table border="0" align="center">
 <tr>
@@ -60,6 +66,7 @@ const hela = {
 <p align="center">
 Creating beautiful, responsive interfaces using my expertise in <b>Bootstrap (90%)</b>, React, and Next.js. I transform designs into pixel-perfect experiences with a touch of elegance!
 </p>
+<img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" alt="Pink animation">
 </td>
 <td width="50%">
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Backend Development">
@@ -67,6 +74,7 @@ Creating beautiful, responsive interfaces using my expertise in <b>Bootstrap (90
 <p align="center">
 Building robust server-side applications with <b>Node.js (100%)</b> and Express.js. API development, authentication flows, and database optimization are my specialties—making everything work seamlessly behind the scenes!
 </p>
+<img src="https://media.giphy.com/media/TEGfoPxIjrCJHYLXgp/giphy.gif" width="100%" alt="Pink sparkles">
 </td>
 </tr>
 <tr>
@@ -76,6 +84,7 @@ Building robust server-side applications with <b>Node.js (100%)</b> and Express.
 <p align="center">
 Combining <b>Next.js (100%)</b> with Node.js to create end-to-end applications that are fast, secure, and user-friendly. I love bringing ideas to life with a feminine touch of creativity!
 </p>
+<img src="https://media.giphy.com/media/3o7aCQX32YzXsFp1oA/giphy.gif" width="100%" alt="Pink sparkle animation">
 </td>
 <td width="50%">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Network Engineering">
@@ -83,6 +92,7 @@ Combining <b>Next.js (100%)</b> with Node.js to create end-to-end applications t
 <p align="center">
 Optimizing MikroTik routers and creating secure network configurations. I ensure everything stays connected reliably and efficiently—like a digital fairy godmother!
 </p>
+<img src="https://media.giphy.com/media/3o7TKAW1gOF1ufLlh6/giphy.gif" width="100%" alt="Pink sparkle animation">
 </td>
 </tr>
 </table>
@@ -91,6 +101,7 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 
 <div align="center">
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Girl working">
+<img src="https://media.giphy.com/media/l2JhMdB51G7ifY4zS/giphy.gif" width="300px" alt="Pink sparkle animation">
 </div>
 
 ### 💼 Full Stack Developer | EasySoft.Dev | October 2023 - Present
@@ -118,6 +129,10 @@ const easySoftDev = {
 };
 ```
 
+<div align="center">
+<img src="https://media.giphy.com/media/W0HzGjvHkhr9AeqEcJ/giphy.gif" width="300px" alt="Pink heart animation">
+</div>
+
 ### 🌐 Internet Service | TarinNet Company | July 2023 - 2024
 ```javascript
 // Network configuration expertise ✨
@@ -132,6 +147,10 @@ const tarinNet = {
   feedback: "Her attention to detail ensures our networks run flawlessly! 💖"
 };
 ```
+
+<div align="center">
+<img src="https://media.giphy.com/media/QVs6OmwbbGvWPJJ75m/giphy.gif" width="300px" alt="Girl coding animation">
+</div>
 
 ### 👩‍💻 Freelance Web Developer | Remote Projects | 2021 - 2025
 ```javascript
@@ -162,6 +181,7 @@ const freelance = {
 
 <div align="center">
 <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200px" alt="Girl coding">
+<img src="https://media.giphy.com/media/iFCQvzb8XKD9SwR5I0/giphy.gif" width="300px" alt="Pink sparkles animation">
 </div>
 
 <div align="center">
@@ -177,6 +197,8 @@ const freelance = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-75%25-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
 </p>
 
+<img src="https://media.giphy.com/media/0YZecZ5QGgXy6NXCcF/giphy.gif" width="300px" alt="Floating hearts animation">
+
 ### 💗 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-100%25-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" />
@@ -186,6 +208,8 @@ const freelance = {
   <img src="https://img.shields.io/badge/GraphQL-70%25-ff69b4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Authentication-80%25-ff69b4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=black" />
 </p>
+
+<img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="300px" alt="Pink hearts animation">
 
 ### 💗 Tools & More
 <p>
@@ -200,12 +224,20 @@ const freelance = {
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="300px" alt="Pink explosion animation">
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helenhb&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhb&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=20232a&hide_border=false" width="49%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenhb&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&langs_count=8" width="40%" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=helenhb&theme=radical&column=4&margin-w=15&margin-h=15" width="58%" />
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/3o7qDXzmWyT3BgcyGc/giphy.gif" width="300px" alt="Sparkly animation">
 </div>
 
 ## 🎓 Education & Certifications
@@ -259,6 +291,7 @@ class Education {
 <td width="40%">
 <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100%" alt="Girl studying">
 <p align="center"><i>~ Always curious, always learning ~</i></p>
+<img src="https://media.giphy.com/media/xT9IgAakXAITtXIWje/giphy.gif" width="100%" alt="Pink hearts animation">
 </td>
 </tr>
 </table>
@@ -267,6 +300,7 @@ class Education {
 
 <div align="center">
 <img src="https://media.giphy.com/media/gHPOb1fEVWq5aan4JE/giphy.gif" width="200px" alt="Communication">
+<img src="https://media.giphy.com/media/3oKIPCSX4UHmuS41TG/giphy.gif" width="300px" alt="Pink hearts animation">
 </div>
 
 <div align="center">
@@ -302,6 +336,7 @@ class Education {
 
 <div align="center">
 <img src="https://media.giphy.com/media/h5NLPVn3rg0Rq/giphy.gif" width="200px" alt="Creative coding">
+<img src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="300px" alt="Pink sparkle explosion">
 </div>
 
 <div align="center">
@@ -317,6 +352,7 @@ class Education {
           <li>💗 Documentation is like a love letter to your future self</li>
           <li>💗 Add a sprinkle of creativity to make your code shine!</li>
         </ul>
+        <img src="https://media.giphy.com/media/3o7qDMTQf29Qh8uzYs/giphy.gif" width="100%" alt="Pink hearts animation">
       </td>
       <td width="50%">
         <h3>✨ When I'm Not Coding</h3>
@@ -328,6 +364,7 @@ class Education {
           <li>💗 Finding the perfect pink hex codes (#ff69b4 is my favorite!)</li>
           <li>💗 Creating digital art that combines technology and beauty</li>
         </ul>
+        <img src="https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" width="100%" alt="Pink hearts animation">
       </td>
     </tr>
   </table>
@@ -337,6 +374,7 @@ class Education {
 
 <div align="center">
 <img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
+<img src="https://media.giphy.com/media/l3vR6aasfs0Ae3qdG/giphy.gif" width="300px" alt="Pink hearts animation">
 </div>
 
 <div align="center">
@@ -355,8 +393,9 @@ class Education {
 </div>
 
 <div align="center">
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300px" alt="Pink hearts animation">
   
-### "Creating beautiful web experiences, one pink pixel at a time ✨💕"
+### "💖 Creating beautiful web experiences, one pink pixel at a time 💖"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </div>
