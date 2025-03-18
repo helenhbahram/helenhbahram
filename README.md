@@ -333,7 +333,9 @@ class Education {
     <img src="https://img.shields.io/badge/LinkedIn-Hêlêň Mäšifi⚡-ff69b4?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   
-  
+  <a href="mailto: creativetwins01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-creativetwins01@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 <div align="center">
