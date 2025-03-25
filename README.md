@@ -16,15 +16,18 @@
 <p align="center"><i>~ Creating digital magic every day ~</i></p>
 </div>
 
-🤍 About Me
+## 🤍 About Me
+
 <table border="0">
 <tr>
 <td width="60%">
-javascriptCopy// Get to know me better! ✨
+
+```javascript
+// Get to know me better! ✨
 const hela = {
   location: "Massif, Pirmam",
   email: "helenhbahram@gmail.com",
-  currentWork: ["EasySoft.Dev", "Rexior LLC"],
+  currentWork: "EasySoft.Dev",
   education: "B.Sc. Information and Communication Technology Engineering",
   skills: {
     frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript"],
