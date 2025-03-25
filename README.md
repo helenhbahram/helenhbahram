@@ -27,7 +27,7 @@
 const hela = {
   location: "Massif, Pirmam",
   email: "helenhbahram@gmail.com",
-  currentWork: "EasySoft.Dev",
+  currentWork: "EasySoft.Dev","Rexior LLC",
   education: "B.Sc. Information and Communication Technology Engineering",
   skills: {
     frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript"],
