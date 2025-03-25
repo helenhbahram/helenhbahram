@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hola👋🏻
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
 
@@ -9,16 +11,16 @@
   <img src="https://img.shields.io/badge/Experience-5%2B_Years-ff69b4?style=for-the-badge" />
 </p>
 
+
+
 <p align="center"><i>~ Creating digital magic every day ~</i></p>
+</div>
 
-## 🤍 About Me
-
+🤍 About Me
 <table border="0">
 <tr>
 <td width="60%">
-
-```javascript
-// Get to know me better! ✨
+javascriptCopy// Get to know me better! ✨
 const hela = {
   location: "Massif, Pirmam",
   email: "helenhbahram@gmail.com",
@@ -87,33 +89,6 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 🤍 Backend Developer | Rexior LLC | March 2025 - Present
-```javascript
-// Driving backend innovation at Rexior ✨
-const rexiorLLC = {
-  role: "Backend Developer",
-  responsibilities: () => {
-    return [
-      "Designing and implementing robust backend architectures 🏗️",
-      "Developing scalable server-side applications with cutting-edge technologies 🚀",
-      "Creating efficient database schemas and optimizing query performance 💾",
-      "Implementing secure authentication and authorization mechanisms 🔒",
-      "Collaborating with cross-functional teams to deliver high-quality software solutions 🤝"
-    ];
-  },
-  techStack: {
-    backend: ["Node.js", "Express.js", "RESTful APIs"],
-    database: ["MySQL", "MongoDB"],
-    tools: ["Docker", "Postman", "Git"]
-  },
-  keyAchievements: [
-    "Streamlining backend processes for improved efficiency",
-    "Implementing best practices in software design and development"
-  ],
-  projectHighlights: "Continuously pushing the boundaries of backend development 💡"
-};
-```
-
 ### 🤍 Full Stack Developer | EasySoft.Dev | October 2023 - Present
 ```javascript
 // What keeps me busy every day ✨
@@ -179,4 +154,190 @@ const freelance = {
 };
 ```
 
-(The rest of the document remains the same as in the original profile)
+## 🤍 Tech Stack & Skills
+
+<div align="center">
+<img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200px" alt="Woman coding">
+</div>
+
+<div align="center">
+
+### 💗 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-100%25-ff69b4?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-100%25-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/React-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-95%25-ff69b4?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-90%25-ff69b4?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-75%25-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
+</p>
+
+### 💗 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-100%25-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-85%25-ff69b4?style=for-the-badge&logo=express&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-90%25-ff69b4?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-100%25-ff69b4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/GraphQL-70%25-ff69b4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Authentication-80%25-ff69b4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=black" />
+</p>
+
+### 💗 Tools & More
+<p>
+  <img src="https://img.shields.io/badge/Git_GitHub-85%25-ff69b4?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-90%25-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/MikroTik-80%25-ff69b4?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-75%25-ff69b4?style=for-the-badge&logo=figma&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_Design-90%25-ff69b4?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" />
+</p>
+</div>
+
+## 🤍 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helenhb&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhb&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=20232a&hide_border=false" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenhb&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&langs_count=8" width="40%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=helenhb&theme=radical&column=4&margin-w=15&margin-h=15" width="58%" />
+</div>
+
+## 🤍 Education & Certifications
+
+<table border="0">
+<tr>
+<td width="60%">
+
+```javascript
+// My learning journey ✨
+class Education {
+  constructor() {
+    this.degree = {
+      title: "Bachelor of Information and Communication Technology Engineering",
+      institution: "Erbil Polytechnic University",
+      graduation: "2025",
+      highlights: ["Dean's List", "Web Development Club Leader"]
+    };
+    
+    this.certifications = [
+      {
+        name: "Tarinnet Internship Certification",
+        focus: "Network configuration & optimization",
+        year: "2023"
+      },
+      {
+        name: "IREX Certification",
+        focus: "Web development & digital solutions",
+        year: "2022"
+      },
+      {
+        name: "Bootstrap 5 Master Class",
+        issuer: "Udemy",
+        year: "2023"
+      },
+      {
+        name: "Next.js & Node.js - Full Stack Development",
+        issuer: "Coursera",
+        year: "2023"
+      }
+    ];
+    
+    this.currentlyLearning = ["TypeScript", "AWS", "Docker"];
+    
+    this.motto = "Learning never stops. Every day is a new opportunity to grow! 💕";
+  }
+}
+```
+
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100%" alt="Woman studying">
+<p align="center"><i>~ Creating digital magic every day ~</i></p>
+</td>
+</tr>
+</table>
+
+## 🤍 Languages
+
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
+<!--     <td><img src="https://progress-bar.dev/100/?width=150&color=ff69b4" /></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
+<!--     <td><img src="https://progress-bar.dev/95/?width=150&color=ff69b4" /></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
+<!--     <td><img src="https://progress-bar.dev/85/?width=150&color=ff69b4" /></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
+<!--     <td><img src="https://progress-bar.dev/80/?width=150&color=ff69b4" /></td>
+  </tr> -->
+</table>
+
+## 🤍 My Professional Philosophy
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3>💭 My Coding Philosophy</h3>
+        <ul>
+          <li>💗 Write code that's as beautiful as it is functional</li>
+          <li>💗 User experience comes first, always</li>
+          <li>💗 Clean code is not just a preference, it's respect for those who read it</li>
+          <li>💗 Every problem has a solution - sometimes you just need to look at it differently</li>
+          <li>💗 Documentation is like a love letter to your future self</li>
+          <li>💗 Add a sprinkle of creativity to make your code shine!</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>✨ When I'm Not Coding</h3>
+        <ul>
+          <li>💗 Exploring new design trends and UI inspirations</li>
+          <li>💗 Reading tech blogs and participating in webinars</li>
+          <li>💗 Contributing to open-source projects</li>
+          <li>💗 Mentoring aspiring developers, especially women in tech</li>
+          <li>💗 Finding the perfect pink hex codes (#ff69b4 is my favorite!)</li>
+          <li>💗 Creating digital art that combines technology and beauty</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🤍 Let's Connect!
+
+<div align="center">
+<!-- <img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
+</div> -->
+
+<p align="center">
+  <a href="mailto:helenhbahram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  
+  <a href="https://github.com/helenhb">
+    <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/h%C3%AAl%C3%AA%C5%88-m%C3%A4%C5%A1ifi%E2%9A%A1-29238433a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Hêlêň Mäšifi⚡-ff69b4?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto: creativetwins01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-creativetwins01@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  
+### "🤍 Transforming Ideas into Reality 🤍"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
+</div>
