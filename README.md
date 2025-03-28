@@ -25,7 +25,7 @@
 ```javascript
 // Get to know me better! ✨
 const hela = {
-  location: "Massif, Pirmam",
+  location: "Massif-Pirmam",
   email: "helenhbahram@gmail.com",
   currentWork: "EasySoft.Dev","Rexior Limited Liability Company (LLC)",
   education: "B.Sc. Information and Communication Technology Engineering",
