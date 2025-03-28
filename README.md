@@ -332,10 +332,7 @@ class Education {
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/h%C3%AAl%C3%AA%C5%88-m%C3%A4%C5%A1ifi%E2%9A%A1-29238433a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Hêlêň Mäšifi⚡-ff69b4?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto: creativetwins01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-creativetwins01@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+
 </p>
 
 <div align="center">
