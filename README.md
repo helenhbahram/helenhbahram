@@ -33,7 +33,7 @@ const hela = {
     frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript"],
     backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL"],
     databases: ["MySQL"],
-    tools: ["Git GitHub", "VS Code", "MikroTik"]
+    tools: ["Git", "GitHub", "VS Code","Git Bash", "MikroTik"]
   },
   strengths: ["Detail-oriented", "Problem solver", "User experience focused"],
   currentlyLearning: ["TypeScript", "AWS", "Docker"],
