@@ -92,7 +92,7 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 🤍 Full Stack Developer | EasySoft.Dev | October 2023 - Present
+### 🤍 Full Stack Developer | EasySoft.Dev | October 2020 - Present
 ```javascript
 // What keeps me busy every day ✨
 const easySoftDev = {
@@ -132,7 +132,7 @@ const tarinNet = {
 };
 ```
 
-### 🤍 Freelance Web Developer | Remote Projects | 2021 - 2025
+### 🤍 Freelance Web Developer | Remote Projects | 2020 - 2025
 ```javascript
 // Creating digital experiences for clients ✨
 const freelance = {
