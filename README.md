@@ -36,7 +36,7 @@ const hela = {
     tools: ["Git", "GitHub", "VS Code","Git Bash", "MikroTik"]
   },
   strengths: ["Detail-oriented", "Problem solver", "User experience focused"],
-  currentlyLearning: ["TypeScript", "AWS", "Docker"],
+  currentlyLearning: ["TypeScript", "AWS", "Docker","Flutter"],
   funFact: "I believe the perfect code is like the perfect outfit - functional, beautiful, and makes everyone happy!"
 };
 ```
