@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hola👋🏻💕
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer(FSD);ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer(FSD);ICT+Engineer;Flutter Developer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
