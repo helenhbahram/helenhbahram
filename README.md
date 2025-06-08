@@ -132,7 +132,7 @@ const tarinNet = {
 };
 ```
 
-### 🤍 Freelance Web Developer | Remote Projects | 2015 - 2025
+### 🤍 Mobile App & Web App Developer | Remote Projects | 2015 - present
 ```javascript
 // Creating digital experiences for clients ✨
 const freelance = {
