@@ -139,7 +139,7 @@ const freelance = {
   projects: [
     {
       type: "E-commerce Website",
-      tech: ["Next.js", "Bootstrap", "Node.js", "MySQL"],
+      tech: ["Next.js", "Bootstrap", "Node.js", "MySQL" , "Flutter" ,],
       highlight: "Increased client's online sales by 50% through intuitive UI/UX"
     },
     {
