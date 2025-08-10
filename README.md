@@ -30,13 +30,13 @@ const hela = {
   currentWork: "EasySoft.Dev","Rexior Limited Liability Company (LLC)","JK Giant Innovation","Nass Al Iraqi Holding",
   education: "B.Sc. Information and Communication Technology Engineering(ICTE)",
   skills: {
-    frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript"],
+    frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript","Flutter"],
     backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL"],
     databases: ["MySQL"],
     tools: ["Git", "GitHub", "VS Code","Git Bash", "MikroTik"]
   },
   strengths: ["Detail-oriented", "Problem solver", "User experience focused"],
-  currentlyLearning: ["TypeScript", "AWS", "Docker","Flutter"],
+  currentlyLearning: ["TypeScript", "AWS", "Docker"],
   funFact: "I believe the perfect code is like the perfect outfit - functional, beautiful, and makes everyone happy!"
 };
 ```
