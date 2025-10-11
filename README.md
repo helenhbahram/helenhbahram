@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hola👋🏻💕
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer(FSD);ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer(FSD);ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert;TypeScript+Lover)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Location-Massif|Pirmam-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-10%2B_Years-ff69b4?style=for-the-badge" />
 </p>
-
-
 
 <p align="center"><i>~ Creating digital magic every day ~</i></p>
 </div>
@@ -27,16 +25,17 @@
 const hela = {
   location: "Massif-Pirmam",
   email: "helenhbahram@gmail.com",
-  currentWork: "EasySoft.Dev","Rexior Limited Liability Company (LLC)","JK Giant Innovation","Nass Al Iraqi Holding",
+  currentWork: ["ni.iq Company", "EasySoft.Dev", "Rexior LLC", "JK Giant Innovation", "Nass Al Iraqi Holding"],
   education: "B.Sc. Information and Communication Technology Engineering(ICTE)",
   skills: {
-    frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript","Flutter","React Native"],
+    frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript", "TypeScript", "Flutter", "React Native", "shadcn/ui", "Hero UI"],
     backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL"],
     databases: ["MySQL"],
-    tools: ["Git", "GitHub", "VS Code","Git Bash", "MikroTik"]
+    cloud: ["AWS"],
+    tools: ["Git", "GitHub", "VS Code", "Git Bash", "MikroTik"]
   },
-  strengths: ["Detail-oriented", "Problem solver", "User experience focused"],
-  currentlyLearning: ["TypeScript", "AWS", "Docker"],
+  strengths: ["Detail-oriented", "Problem solver", "User experience focused", "Component architecture"],
+  currentlyLearning: ["Advanced AWS", "Docker", "Kubernetes"],
   funFact: "I believe the perfect code is like the perfect outfit - functional, beautiful, and makes everyone happy!"
 };
 ```
@@ -57,14 +56,14 @@ const hela = {
 <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1foxfyl6ey4nlsiser&rid=giphy.gif" width="100%" alt="Frontend Development">
 <h3 align="center">✨ Frontend Magic ✨</h3>
 <p align="center">
-Creating beautiful, responsive interfaces using my expertise in <b>Bootstrap (90%)</b>, React, and Next.js. I transform designs into pixel-perfect experiences with a touch of elegance!
+Creating beautiful, responsive interfaces using my expertise in <b>Bootstrap (100%)</b>, shadcn/ui, and Hero UI with <b>TypeScript</b>. I transform designs into pixel-perfect experiences with a touch of elegance!
 </p>
 </td>
 <td width="50%">
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Backend Development">
 <h3 align="center">💪 Backend Power 💪</h3>
 <p align="center">
-Building robust server-side applications with <b>Node.js (100%)</b> and Express.js. API development, authentication flows, and database optimization are my specialties—making everything work seamlessly behind the scenes!
+Building robust server-side applications with <b>Node.js (100%)</b> and Express.js in <b>TypeScript</b>. API development, authentication flows, and database optimization are my specialties—making everything work seamlessly behind the scenes!
 </p>
 </td>
 </tr>
@@ -73,7 +72,7 @@ Building robust server-side applications with <b>Node.js (100%)</b> and Express.
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Full Stack Development">
 <h3 align="center">🚀 Full Stack Solutions 🚀</h3>
 <p align="center">
-Combining <b>Next.js (100%)</b> with Node.js to create end-to-end applications that are fast, secure, and user-friendly. I love bringing ideas to life with a feminine touch of creativity!
+Combining <b>Next.js (100%)</b> with Node.js and deploying on <b>AWS</b> to create end-to-end applications that are fast, secure, and user-friendly. I love bringing ideas to life with a feminine touch of creativity!
 </p>
 </td>
 <td width="50%">
@@ -92,6 +91,30 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
+### 🤍 Full Stack Developer | ni.iq Company | Current
+```javascript
+// Building amazing solutions with modern tech! ✨
+const niIQ = {
+  myRole: () => {
+    return [
+      "Crafting component libraries with shadcn/ui & Hero UI 🎨",
+      "Writing type-safe code with TypeScript 🔒",
+      "Deploying scalable applications on AWS 🌥️",
+      "Optimizing performance and user experience 🚀",
+      "Collaborating with teams on cutting-edge projects ⭐"
+    ];
+  },
+  techStack: {
+    frontend: ["Next.js", "React", "TypeScript", "shadcn/ui", "Hero UI", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "TypeScript"],
+    cloud: "AWS",
+    database: "MySQL"
+  },
+  achievements: "Building scalable, type-safe full-stack applications",
+  philosophy: "Beautiful code meets powerful infrastructure! 💖"
+};
+```
+
 ### 🤍 Full Stack Developer | EasySoft.Dev | October 2020 - Present
 ```javascript
 // What keeps me busy every day ✨
@@ -107,8 +130,8 @@ const easySoftDev = {
     ];
   },
   techStack: {
-    frontend: ["Next.js", "React", "Bootstrap"],
-    backend: ["Node.js", "Express.js"],
+    frontend: ["Next.js", "React", "Bootstrap", "TypeScript"],
+    backend: ["Node.js", "Express.js", "TypeScript"],
     database: "MySQL",
     tools: ["GitHub", "VSCode", "Postman"]
   },
@@ -139,17 +162,17 @@ const freelance = {
   projects: [
     {
       type: "E-commerce Website",
-      tech: ["Next.js", "Bootstrap", "Node.js", "MySQL" , "Flutter" ,],
+      tech: ["Next.js", "TypeScript", "shadcn/ui", "Node.js", "MySQL", "Flutter"],
       highlight: "Increased client's online sales by 50% through intuitive UI/UX"
     },
     {
       type: "Portfolio Website",
-      tech: ["React", "Tailwind CSS", "Express.js"],
+      tech: ["React", "TypeScript", "Tailwind CSS", "Express.js"],
       highlight: "Featured in a design showcase for creative presentation"
     },
     {
       type: "Booking System",
-      tech: ["Next.js", "Node.js", "MySQL"],
+      tech: ["Next.js", "TypeScript", "Node.js", "AWS", "MySQL"],
       highlight: "Reduced administrative workload by 70% through automation"
     }
   ],
@@ -168,22 +191,32 @@ const freelance = {
 ### 💗 Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js-100%25-ff69b4?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-95%25-ff69b4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/shadcn/ui-90%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-100%25-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/React-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/HTML5-95%25-ff69b4?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/CSS3-90%25-ff69b4?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-75%25-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Hero_UI-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
 </p>
 
 ### 💗 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-100%25-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-95%25-ff69b4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Express.js-85%25-ff69b4?style=for-the-badge&logo=express&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/RESTful_APIs-90%25-ff69b4?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/MySQL-100%25-ff69b4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/GraphQL-70%25-ff69b4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Authentication-80%25-ff69b4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=black" />
+</p>
+
+### 💗 Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-85%25-ff69b4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Docker-75%25-ff69b4?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" />
 </p>
 
 ### 💗 Tools & More
@@ -244,10 +277,15 @@ class Education {
         name: "Next.js & Node.js - Full Stack Development",
         issuer: "Coursera",
         year: "2023"
+      },
+      {
+        name: "TypeScript Advanced Patterns",
+        issuer: "Online Course",
+        year: "2024"
       }
     ];
     
-    this.currentlyLearning = ["TypeScript", "AWS", "Docker"];
+    this.currentlyLearning = ["Advanced AWS", "Docker", "Kubernetes"];
     
     this.motto = "Learning never stops. Every day is a new opportunity to grow! 💕";
   }
@@ -267,20 +305,16 @@ class Education {
 <table align="center">
   <tr>
     <td><img src="https://img.shields.io/badge/Kurdish-Native-ff69b4?style=for-the-badge" /></td>
-<!--     <td><img src="https://progress-bar.dev/100/?width=150&color=ff69b4" /></td>
-  </tr> -->
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/English-Fluent-ff69b4?style=for-the-badge" /></td>
-<!--     <td><img src="https://progress-bar.dev/95/?width=150&color=ff69b4" /></td>
-  </tr> -->
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Persian-Proficient-ff69b4?style=for-the-badge" /></td>
-<!--     <td><img src="https://progress-bar.dev/85/?width=150&color=ff69b4" /></td>
-  </tr> -->
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Arabic-Proficient-ff69b4?style=for-the-badge" /></td>
-<!--     <td><img src="https://progress-bar.dev/80/?width=150&color=ff69b4" /></td>
-  </tr> -->
+  </tr>
 </table>
 
 ## 🤍 My Professional Philosophy
@@ -292,6 +326,7 @@ class Education {
         <h3>💭 My Coding Philosophy</h3>
         <ul>
           <li>💗 Write code that's as beautiful as it is functional</li>
+          <li>💗 Type safety is love for your codebase</li>
           <li>💗 User experience comes first, always</li>
           <li>💗 Clean code is not just a preference, it's respect for those who read it</li>
           <li>💗 Every problem has a solution - sometimes you just need to look at it differently</li>
@@ -302,10 +337,11 @@ class Education {
       <td width="50%">
         <h3>✨ When I'm Not Coding</h3>
         <ul>
-          <li>💗 Exploring new design trends and UI inspirations</li>
+          <li>💗 Exploring new design trends and UI component libraries</li>
           <li>💗 Reading tech blogs and participating in webinars</li>
           <li>💗 Contributing to open-source projects</li>
           <li>💗 Mentoring aspiring developers, especially women in tech</li>
+          <li>💗 Experimenting with AWS architecture patterns</li>
           <li>💗 Finding the perfect pink hex codes (#ff69b4 is my favorite!)</li>
           <li>💗 Creating digital art that combines technology and beauty</li>
         </ul>
@@ -316,10 +352,6 @@ class Education {
 
 ## 🤍 Let's Connect!
 
-<div align="center">
-<!-- <img src="https://media.giphy.com/media/7vO5eO1VOkbECRTgcb/giphy.gif" width="200px" alt="Let's connect">
-</div> -->
-
 <p align="center">
   <a href="mailto:helenhbahram@gmail.com">
     <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
@@ -329,7 +361,7 @@ class Education {
     <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/h%C3%AAl%C3%AA%C5%88-m%C3%A4%C5%A1ifi%E2%9A%A1-29238433a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/hêlêň-mäšifi⚡-29238433a">
     <img src="https://img.shields.io/badge/LinkedIn-Hêlêň Mäšifi⚡-ff69b4?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
@@ -337,7 +369,7 @@ class Education {
 
 <div align="center">
   
-### "🤍 Transforming Ideas into Reality 🤍"
+### "🤍 Transforming Ideas into Reality with TypeScript & AWS 🤍"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </div>
