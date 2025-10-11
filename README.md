@@ -260,12 +260,12 @@ const freelance = {
 ## 🤍 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helenhb&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhb&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=20232a&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helenhbahram&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenhbahram&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=20232a&hide_border=false" width="49%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenhb&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenhbahram&layout=compact&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=20232a&border_color=ff69b4&hide_border=false&langs_count=8" width="40%" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=helenhb&theme=radical&column=4&margin-w=15&margin-h=15" width="58%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=helenhbahram&theme=radical&column=4&margin-w=15&margin-h=15" width="58%" />
 </div>
 
 ## 🤍 Education & Certifications
@@ -385,8 +385,8 @@ class Education {
     <img src="https://img.shields.io/badge/Email-helenhbahram@gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   
-  <a href="https://github.com/helenhb">
-    <img src="https://img.shields.io/badge/GitHub-helenhb-ff69b4?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/helenhbahram">
+    <img src="https://img.shields.io/badge/GitHub-helenhbahram-ff69b4?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   
   <a href="https://www.linkedin.com/in/hêlêň-mäšifi⚡-29238433a">
