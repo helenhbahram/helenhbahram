@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hola👋🏻💕
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer(FSD);ICT+Engineer;Bootstrap+Specialist;Next.js+Enthusiast;Node.js+Expert;TypeScript+Lover)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer(FSD);Frontend+Developer;ICT+Engineer;TypeScript+Expert;React+Native+Developer;Tailwind+CSS+Specialist;AWS+Cloud+Expert;Next.js+Enthusiast;Node.js+Expert;Express.js+Master;Flutter+Developer)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -91,7 +91,7 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 🤍 Full Stack Developer | ni.iq Company | Current
+### 🤍 Frontend Developer | ni.iq Company | Current
 ```javascript
 // Building amazing solutions with modern tech! ✨
 const niIQ = {
@@ -369,7 +369,7 @@ class Education {
 
 <div align="center">
   
-### "🤍 Transforming Ideas into Reality with TypeScript & AWS 🤍"
+### "🤍 Transforming Ideas into Reality 🤍"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
 </div>
