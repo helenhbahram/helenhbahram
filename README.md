@@ -95,6 +95,7 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 ```javascript
 // Building amazing solutions with modern tech! ✨
 const niIQ = {
+  location: "Erbil, Iraq",
   myRole: () => {
     return [
       "Crafting component libraries with shadcn/ui & Hero UI 🎨",
@@ -112,6 +113,33 @@ const niIQ = {
   },
   achievements: "Building scalable, type-safe full-stack applications",
   philosophy: "Beautiful code meets powerful infrastructure! 💖"
+};
+```
+
+### 🤍 Backend Developer | Rexior Limited Liability Company (LLC) | Current
+```javascript
+// Rexior Limited Liability Company (LLC) Information ✨
+const rexior = {
+  location: "Sheridan, Wyoming, USA",
+  myRole: () => {
+    return [
+      "Building robust backend infrastructure with Node.js 🔧",
+      "Designing scalable RESTful APIs with Express.js ⚡",
+      "Writing type-safe backend code with TypeScript 🛡️",
+      "Optimizing database performance with MySQL 📊",
+      "Implementing secure authentication and authorization 🔒",
+      "Deploying applications on AWS cloud infrastructure 🌥️"
+    ];
+  },
+  techStack: {
+    backend: ["Node.js", "Express.js", "TypeScript"],
+    databases: ["MySQL", "GraphQL"],
+    cloud: "AWS",
+    tools: ["Git", "GitHub", "VS Code", "Postman"],
+    architectural: ["RESTful APIs", "Microservices", "Authentication Systems"]
+  },
+  achievements: "Creating scalable, secure backend systems that power global applications",
+  expertise: "Backend architecture, API design, database optimization, cloud deployment"
 };
 ```
 
