@@ -25,7 +25,7 @@
 const hela = {
   location: "Massif-Pirmam",
   email: "helenhbahram@gmail.com",
-  currentWork: ["ni.iq Company", "EasySoft.Dev", "Rexior LLC", "JK Giant Innovation", "Nass Al Iraqi Holding"],
+  currentWork: [ "EasySoft.Dev", "Rexior LLC", "JK Giant Innovation", "Nass Al Iraqi Holding"],
   education: "B.Sc. Information and Communication Technology Engineering(ICTE)",
   skills: {
     frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript", "TypeScript", "Flutter", "React Native", "shadcn/ui", "Hero UI"],
@@ -91,7 +91,7 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 🤍 Frontend Developer | ni.iq Company | Current
+### 🤍 Frontend Developer | ni.iq Company 2025 | 2026
 ```javascript
 // Building amazing solutions with modern tech! ✨
 const niIQ = {
