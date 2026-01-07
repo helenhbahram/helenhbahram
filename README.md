@@ -25,7 +25,7 @@
 const hela = {
   location: "Massif-Pirmam",
   email: "helenhbahram@gmail.com",
-  currentWork: [ "EasySoft.Dev", "Rexior LLC", "JK Giant Innovation", "Nass Al Iraqi Holding"],
+  currentWork: [ "EasySoft.Dev", "Rexior LLC", "JK Giant Innovation", "Nass Al Iraqi Holding", " Pro Agency"],
   education: "B.Sc. Information and Communication Technology Engineering(ICTE)",
   skills: {
     frontend: ["Next.js", "React", "Bootstrap", "Tailwind CSS", "JavaScript", "TypeScript", "Flutter", "React Native", "shadcn/ui", "Hero UI"],
