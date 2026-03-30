@@ -1,7 +1,7 @@
 <div align="center">
   
 # HB💞
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ICT+Engineer;Node.js+Expert;Express.js+Master;Next.js+Enthusiast;TypeScript+Expert;AWS+Cloud+Expert;Tailwind+CSS+Specialist;Flutter+Developer;React+Native+Developer;Bootstrap+Specialist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ICT+Engineer;Node.js+Expert;Express.js+Master;Next.js+Enthusiast;TypeScript+Expert;AWS+Cloud+Expert;Tailwind+CSS+Specialist;Flutter+Developer;React+Native+Developer;Bootstrap+Specialist;SwiftUI+Developer;NestJS+Expert)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -91,7 +91,7 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200px" alt="Woman working">
 </div>
 
-### 🤍 Frontend Developer | ni.iq Company 2025 | 2026
+### 🤍 Full-Stack Developer & Project Manager | Pro Agency IT Solutions | 2026 – Present
 ```javascript
 // Building amazing solutions with modern tech! ✨
 const niIQ = {
@@ -116,7 +116,30 @@ const niIQ = {
 };
 ```
 
-### 🤍 Backend Developer | Rexior Limited Liability Company (LLC) | Current
+### 🤍 Frontend Developer | Nass Al Iraqi Holding Company | 2025 – 2026
+```javascript
+// Nass Al Iraqi Holding Company ✨
+const nassAlIraqi = {
+  location: "Erbil, Iraq",
+  myRole: () => {
+    return [
+      "Crafting component libraries with shadcn/ui & Hero UI 🎨",
+      "Writing type-safe code with TypeScript 🔒",
+      "Deploying scalable applications on AWS 🌥️",
+      "Optimizing performance and user experience 🚀",
+      "Building Next.js and React applications with Tailwind CSS ⭐"
+    ];
+  },
+  techStack: {
+    frontend: ["Next.js", "React", "TypeScript", "shadcn/ui", "Hero UI", "Tailwind CSS"],
+    cloud: "AWS"
+  },
+  achievements: "Building scalable, type-safe frontend applications",
+  philosophy: "Beautiful code meets powerful infrastructure! 💖"
+};
+```
+
+### 🤍 Backend Developer | Rexior Limited Liability Company (LLC) | 2024 – Present
 ```javascript
 // Rexior Limited Liability Company (LLC) Information ✨
 const rexior = {
@@ -143,7 +166,7 @@ const rexior = {
 };
 ```
 
-### 🤍 Full Stack Developer | EasySoft.Dev | October 2020 - Present
+### 🤍 Full Stack Developer & DevOps Expert | EasySoft.Dev | 2021 – 2025
 ```javascript
 // What keeps me busy every day ✨
 const easySoftDev = {
@@ -168,7 +191,7 @@ const easySoftDev = {
 };
 ```
 
-### 🤍 Internet Service | TarinNet Company | July 2023 - 2024
+### 🤍 Internet Service | TarinNet Company | July 2023 – 2024
 ```javascript
 // Network configuration expertise ✨
 const tarinNet = {
@@ -183,7 +206,7 @@ const tarinNet = {
 };
 ```
 
-### 🤍 Mobile App & Web App Developer | Remote Projects | 2015 - present
+### 🤍 Lead Web Developer & Server Administrator | Freelance & Self-Employed | 2020 – 2021
 ```javascript
 // Creating digital experiences for clients ✨
 const freelance = {
@@ -219,39 +242,73 @@ const freelance = {
 ### 💗 Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js-100%25-ff69b4?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/React.js-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-95%25-ff69b4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/shadcn/ui-90%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-100%25-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/React-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/HTML5-95%25-ff69b4?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/CSS3-90%25-ff69b4?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-100%25-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-75%25-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/shadcn/ui-90%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Hero_UI-85%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
+</p>
+
+### 💗 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Flutter-85%25-ff69b4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-80%25-ff69b4?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Swift_UI-75%25-ff69b4?style=for-the-badge&logo=swift&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-70%25-ff69b4?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" />
 </p>
 
 ### 💗 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-100%25-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-95%25-ff69b4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Express.js-85%25-ff69b4?style=for-the-badge&logo=express&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-80%25-ff69b4?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-95%25-ff69b4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/RESTful_APIs-90%25-ff69b4?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-100%25-ff69b4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/GraphQL-70%25-ff69b4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Authentication-80%25-ff69b4?style=for-the-badge&logo=auth0&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-75%25-ff69b4?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black" />
+</p>
+
+### 💗 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-100%25-ff69b4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-80%25-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-75%25-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" />
 </p>
 
 ### 💗 Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-85%25-ff69b4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Docker-75%25-ff69b4?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/CI/CD_Pipelines-75%25-ff69b4?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Server-80%25-ff69b4?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-75%25-ff69b4?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black" />
+</p>
+
+### 💗 API Integrations
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-80%25-ff69b4?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Payment_Gateways-85%25-ff69b4?style=for-the-badge&logo=stripe&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/OTP_%26_SMS_(Twilio)-80%25-ff69b4?style=for-the-badge&logo=twilio&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Email_(Mailgun%2FSendGrid)-80%25-ff69b4?style=for-the-badge&logo=mailgun&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Maps_(Mapbox%2FOSM)-75%25-ff69b4?style=for-the-badge&logo=mapbox&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Multi--Language_(i18n)-85%25-ff69b4?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-80%25-ff69b4?style=for-the-badge&logo=swagger&logoColor=white&labelColor=black" />
 </p>
 
 ### 💗 Tools & More
 <p>
   <img src="https://img.shields.io/badge/Git_GitHub-85%25-ff69b4?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/GitLab-80%25-ff69b4?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-90%25-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/MikroTik-80%25-ff69b4?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/cPanel_Server-80%25-ff69b4?style=for-the-badge&logo=cpanel&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Zoho_Mail-75%25-ff69b4?style=for-the-badge&logo=zoho&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/SEO-80%25-ff69b4?style=for-the-badge&logo=google&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/UI/UX_Design-75%25-ff69b4?style=for-the-badge&logo=figma&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Responsive_Design-90%25-ff69b4?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" />
 </p>
