@@ -1,7 +1,7 @@
 <div align="center">
   
 # HB💞
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ICT+Engineer;Node.js+Expert;Express.js+Master;Next.js+Enthusiast;TypeScript+Expert;AWS+Cloud+Expert;Tailwind+CSS+Specialist;Flutter+Developer;React+Native+Developer;Bootstrap+Specialist;SwiftUI+Developer;NestJS+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ICT+Engineer;Node.js+Expert;TypeScript+Expert;Express.js+Master;Next.js+Enthusiast;AWS+Cloud+Expert;Tailwind+CSS+Specialist;Flutter+Developer;React+Native+Developer;Bootstrap+Specialist;SwiftUI+Developer;NestJS+Expert)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -94,24 +94,31 @@ Optimizing MikroTik routers and creating secure network configurations. I ensure
 ### 🤍 Full-Stack Developer & Project Manager | Pro Agency IT Solutions | 2026 – Present
 ```javascript
 // Building amazing solutions with modern tech! ✨
-const niIQ = {
+const proAgency = {
   location: "Erbil, Iraq",
   myRole: () => {
     return [
-      "Crafting component libraries with shadcn/ui & Hero UI 🎨",
-      "Writing type-safe code with TypeScript 🔒",
-      "Deploying scalable applications on AWS 🌥️",
-      "Optimizing performance and user experience 🚀",
-      "Collaborating with teams on cutting-edge projects ⭐"
+      "Leading full-stack development of web & mobile applications 🚀",
+      "Building cross-platform mobile apps with Flutter & React Native 📱",
+      "Crafting native iOS experiences with SwiftUI 🍎",
+      "Developing native Android applications with Kotlin 🤖",
+      "Integrating Firebase for real-time data, auth & cloud functions 🔥",
+      "Building robust backend APIs with Node.js, Express.js & NestJS ⚡",
+      "Crafting beautiful UIs with shadcn/ui, Hero UI & Tailwind CSS 🎨",
+      "Writing type-safe code with TypeScript across full stack 🔒",
+      "Managing projects end-to-end from architecture to deployment 🏗️",
+      "Coordinating teams to deliver high-quality products on time ⭐"
     ];
   },
   techStack: {
-    frontend: ["Next.js", "React", "TypeScript", "shadcn/ui", "Hero UI", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "TypeScript"],
+    web: ["Next.js", "React", "TypeScript", "shadcn/ui", "Hero UI", "Tailwind CSS"],
+    mobile: ["Flutter", "React Native", "SwiftUI", "Kotlin"],
+    backend: ["Node.js", "Express.js", "NestJS", "TypeScript"],
+    realtime: "Firebase",
     cloud: "AWS",
-    database: "MySQL"
+    database: ["MySQL", "PostgreSQL", "Firebase Firestore"]
   },
-  achievements: "Building scalable, type-safe full-stack applications",
+  achievements: "Delivering powerful cross-platform solutions — web, iOS & Android — under one roof",
   philosophy: "Beautiful code meets powerful infrastructure! 💖"
 };
 ```
